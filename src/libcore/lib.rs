@@ -88,6 +88,7 @@
 #![feature(extern_types)]
 #![feature(fundamental)]
 #![feature(intrinsics)]
+#![feature(is_sorted)]
 #![feature(lang_items)]
 #![feature(link_llvm_intrinsics)]
 #![feature(never_type)]
